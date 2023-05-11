@@ -1,0 +1,14 @@
+Reste à faire :
+  - finaliser mouvement/anim
+  - graphisme
+  - création menu
+  - système de sauvegarde 
+  - début du jeu (histoire, cinematique ?)
+  - UI
+  - système d'inventaire
+  - énemies
+  - arbre de compétence
+  - évolution (élément ou non)
+  - tuto
+  - deck de cartes
+  - cartes
